@@ -51,9 +51,9 @@
 		ED9EF0B72A618C5200551A65 /* First Time GitHub */ = {
 			isa = PBXGroup;
 			children = (
+				ED9EF0BC2A618C5300551A65 /* Assets.xcassets */,
 				ED9EF0B82A618C5200551A65 /* First_Time_GitHubApp.swift */,
 				ED9EF0BA2A618C5200551A65 /* ContentView.swift */,
-				ED9EF0BC2A618C5300551A65 /* Assets.xcassets */,
 				ED9EF0BE2A618C5300551A65 /* Preview Content */,
 			);
 			path = "First Time GitHub";
